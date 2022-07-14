@@ -1,1 +1,3 @@
 # TPO
+
+Technologie Programowania Rozproszonego
